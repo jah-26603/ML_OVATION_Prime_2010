@@ -1,4 +1,4 @@
-# Dayside Aurora Dataset (GOLD Mission)
+# A completely differentiable Ovation Prime model
 <img src="https://github.com/jah-26603/ML_OVATION_Prime_2010/blob/main/solarwind_predictions.gif" alt="Aurora" width="1000">
 
 
