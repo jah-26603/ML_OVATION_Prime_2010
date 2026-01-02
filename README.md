@@ -10,4 +10,3 @@ geomagnetic and thermospheric indices.
   
 
 
-<img src="https://github.com/jah-26603/ML_OVATION_Prime_2010/blob/main/instance_image.png" alt="Aurora" width="1000">
